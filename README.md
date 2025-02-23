@@ -41,4 +41,4 @@ Includes kcat integration for easy testing and message handling.
 
 ### 💼 Professional Contact
 
-For job opportunities and professional inquiries, please connect with me on [LinkedIn](www.linkedin.com/in/mathias-estrup).
+For job opportunities and professional inquiries, please connect with me on [LinkedIn](https://www.linkedin.com/in/mathias-estrup).
